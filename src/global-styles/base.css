@@ -115,3 +115,7 @@ ol {
 [hidden] {
   display: none !important;
 }
+
+::placeholder {
+  color: var(--clr-text-muted);
+}
