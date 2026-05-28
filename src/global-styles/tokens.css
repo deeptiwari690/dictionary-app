@@ -14,7 +14,6 @@
   --clr-border: hsl(0deg 0% 100% / 30%);
   --clr-text: hsl(var(--blue-100));
   --clr-text-muted: hsl(var(--blue-200));
-  --clr-text-placeholder: hsl(var(--blue-300));
   --clr-text-inert: hsl(var(--blue-700));
   --clr-text-error: hsl(347deg 80% 60%);
   --clr-surface-inert: hsl(var(--blue-800) / 40%);
@@ -35,10 +34,9 @@
     --clr-surface: hsl(var(--blue-200));
     --clr-surface-object: hsl(var(--blue-300));
     --clr-surface-object-high: hsl(var(--blue-400));
-    --clr-border: hsl(0deg 0% 0% / 12%);
+    --clr-border: hsl(0deg 0% 0% / 40%);
     --clr-text: hsl(var(--blue-900));
     --clr-text-muted: hsl(var(--blue-800));
-    --clr-text-placeholder: hsl(var(--blue-700));
     --clr-text-inert: hsl(var(--blue-300));
     --clr-surface-inert: hsl(var(--blue-200) / 40%);
     --clr-skeleton: hsl(220deg 15% 78%);
