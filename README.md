@@ -2,9 +2,7 @@
 
 A dictionary app built with React + TypeScript. Type a word, get the definition, IPA, and audio pronunciation.
 
-**Live:** https://deeptiwari690.github.io/dictionary-app/
-
-**Repo:** https://github.com/deeptiwari690/dictionary-app
+**View live →** https://deeptiwari690.github.io/dictionary-app/
 
 ## What it does
 
